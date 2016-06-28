@@ -3,3 +3,6 @@ fds
 robie zmiane
 f
 ssd
+
+
+to jest ls
